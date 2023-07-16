@@ -1,4 +1,4 @@
-def multiplay(a: int, b: int) -> int:
+def multiply(a: int, b: int) -> int:
     return a * b
 
 
@@ -17,5 +17,5 @@ def divide(a: int, b: int):
 
 
 if __name__ == '__main__':
-    print(multiplay(10, 54))
+    print(multiply(10, 54))
     print(divide(0, 4))
