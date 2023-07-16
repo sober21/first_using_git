@@ -1,8 +1,13 @@
 def multiplay(a: int, b: int) -> int:
     return a * b
 
-def plus(a,b):
-    return a+b
+
+def plus(a: int, b: int) -> int:
+    return a + b
+
+
+def minus(a: int, b: int) -> int:
+    return a - b
 
 
 if __name__ == '__main__':
